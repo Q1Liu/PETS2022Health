@@ -1,0 +1,19 @@
+No.,Time,Delta Time,Source,Destination,Protocol,Length,Info
+1623,50571.465000,0.002000,controller,host,HCI_EVT,34,Rcvd LE Meta (LE Enhanced Connection Complete)
+1631,50571.484000,0.000000,host,controller,HCI_CMD,6,Sent Read Remote Version Information
+1639,50571.550000,0.000000,controller,host,HCI_EVT,11,Rcvd Read Remote Version Information Complete
+1641,50571.555000,0.001000,localhost (),TexasIns_7f:84:d2 (KN-550BT 110),ATT,12,"Sent Exchange MTU Request, Client Rx MTU: 185"
+1646,50571.580000,0.000000,controller,host,HCI_EVT,8,Rcvd Number of Completed Packets
+1652,50571.610000,0.011000,TexasIns_7f:84:d2 (KN-550BT 110),localhost (),ATT,12,"Rcvd Exchange MTU Response, Server Rx MTU: 23"
+1653,50571.610000,0.000000,localhost (),TexasIns_7f:84:d2 (KN-550BT 110),ATT,16,"Sent Read By Group Type Request, GATT Primary Service Declaration, Handles: 0x0001..0xffff"
+1659,50571.646000,0.010000,controller,host,HCI_EVT,8,Rcvd Number of Completed Packets
+1663,50571.671000,0.009000,TexasIns_7f:84:d2 (KN-550BT 110),localhost (),ATT,23,"Rcvd Read By Group Type Response, Attribute List Length: 2, Generic Access Profile, Generic Attribute Profile"
+1664,50571.671000,0.000000,localhost (),TexasIns_7f:84:d2 (KN-550BT 110),ATT,16,"Sent Read By Group Type Request, GATT Primary Service Declaration, Handles: 0x0010..0xffff"
+1667,50571.710000,0.027000,controller,host,HCI_EVT,8,Rcvd Number of Completed Packets
+1670,50571.732000,0.015000,TexasIns_7f:84:d2 (KN-550BT 110),localhost (),ATT,31,"Rcvd Read By Group Type Response, Attribute List Length: 1, Unknown"
+1671,50571.732000,0.000000,localhost (),TexasIns_7f:84:d2 (KN-550BT 110),ATT,16,"Sent Read By Group Type Request, GATT Primary Service Declaration, Handles: 0x0016..0xffff"
+1673,50571.766000,0.031000,controller,host,HCI_EVT,8,Rcvd Number of Completed Packets
+1678,50571.790000,0.006000,TexasIns_7f:84:d2 (KN-550BT 110),localhost (),ATT,17,"Rcvd Read By Group Type Response, Attribute List Length: 1, Device Information"
+1679,50571.793000,0.003000,localhost (),TexasIns_7f:84:d2 (KN-550BT 110),ATT,16,"Sent Read By Type Request, GATT Characteristic Declaration, Handles: 0x000c..0x000f"
+1683,50571.846000,0.038000,controller,host,HCI_EVT,8,Rcvd Number of Completed Packets
+1686,50571.850000,0.003000,TexasIns_7f:84:d2 (KN-550BT 110),localhost (),ATT,18,"Rcvd Read By Type Response, Attribute List Length: 1, Service Changed"
