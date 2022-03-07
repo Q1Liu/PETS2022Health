@@ -4,9 +4,13 @@ Data Folder contains all the data we collected. Our dataset contains a wide rang
 
 Besides various functionality and brands, we also collected data for different activities. We collected different running speeds for Mi Band and Fitbit, breath, and different cycles for Apple watch. 
 
+Data Collected Folder contains: 
 All_Data: contains all collected data
 Processed_CSV: contains processed csv files with aggregated action
 Apple_Breath, Apple_Cycle, Fitbit_Speed, Mi_Speed folder names speak for the folder. 
+
+Identification and Classification Folder contains: Health Device Classification.ipynb, Speed Regression.ipynb, which are the codes for our paper.
+
 
 ========================================== <br>  
 The goal of the code is to identify Health Wearable device brands, devices, actions, and fine-grained device actions. 
